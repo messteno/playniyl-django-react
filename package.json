@@ -1,0 +1,17 @@
+{
+    "name": "playvinyl",
+    "version": "0.0.1",
+    "description": "playvinyl.ru site project",
+    "main": "frontend/src/app.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/messteno/playvinyl-django-react"
+    },
+    "keywords": [
+        "playvinyl"
+    ],
+    "author": "Artem Meshcheryakov <messteno@gmail.com>",
+    "license": "GPL-3.0"
+}
