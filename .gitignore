@@ -1,0 +1,10 @@
+.git/
+*.pyc
+.sass-cache/
+.env/
+node_modules/
+bower_components/
+logs/
+media/
+static/
+frontend/dist/

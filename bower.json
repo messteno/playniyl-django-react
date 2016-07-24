@@ -1,0 +1,25 @@
+{
+  "name": "playvinyl",
+  "description": "playvinyl.ru site project",
+  "main": "frontend/app/app.js",
+  "authors": [
+    "Artem Meshcheryakov <messteno@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "playvinyl"
+  ],
+  "homepage": "https://github.com/messteno/playniyl-django-react",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "font-roboto": "^0.0.2",
+    "bootstrap": "^3.3.6"
+  }
+}
